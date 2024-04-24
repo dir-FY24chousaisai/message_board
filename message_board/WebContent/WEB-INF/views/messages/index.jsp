@@ -8,7 +8,6 @@
             </div>
         </c:if>
         <h2>メッセージ一覧</h2>
-        <h2>メッセージ一覧</h2>
         <ul>
             <c:forEach var="message" items="${messages}">
                 <li>
